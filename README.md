@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mikhaal-420
+- 👀 I’m interested in nothing 
+- 🌱 I’m currently learning python 
